@@ -1,4 +1,5 @@
 Sprawozdanie z Laboratorium 2: Trello jako alternatywne narzędzie zarządzania projektem
+Karol Ziomek
 
 1. Porównanie Jira vs Trello (Różnice funkcjonalne)
 
