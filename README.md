@@ -1,1 +1,1 @@
-# lab-eksploracja-danych
+# Lab 3 - Wersja B
